@@ -24,13 +24,13 @@ Each project consists of:
 - **Customer churn prediction** using classification models such as **Random Forest** and **SVM**.
 - **Dataset**: Bank customer data.
 - **Key metrics**: Accuracy, F1-score, confusion matrix.
-- 📌 [Colab Notebook](https://colab.research.google.com/drive/1G7SBPrHMCVuey0Pn-m8QP8KHc4OJYp8q?usp=sharing)
+- 📌 [Colab Notebook]((https://colab.research.google.com/drive/1G7SBPrHMCVuey0Pn-m8QP8KHc4OJYp8q?usp=sharing))
 
 ### 🔹 **[ML Project 2](https://github.com/Zahra-Arabi/Machine-learning-2024/tree/main/ML_Project2)**
 - **Neural network analysis** and its **hyperparameter optimization**.
 - Models: **Multi-Layer Perceptron (MLP)** with batch normalization, dropout, and different optimizers.
 - **Comparison of different architectures** and their impact on accuracy.
-- 📌 [Colab Notebook] (https://colab.research.google.com/drive/1sGE_Ow4Q4WM3v8UkPLl5lMEmMY3_Cz_K?usp=sharing)
+- 📌 [Colab Notebook] ((https://colab.research.google.com/drive/1sGE_Ow4Q4WM3v8UkPLl5lMEmMY3_Cz_K?usp=sharing))
 
 ### 🔹 **[ML Project 3](https://github.com/Zahra-Arabi/Machine-learning-2024/tree/main/ML_Project3)**
 - **PID vs. Fuzzy Logic Control** for **nonlinear dynamic systems**.
@@ -38,7 +38,7 @@ Each project consists of:
   - Ziegler-Nichols tuned **PID Controller**.
   - **Fuzzy Logic Controller**.
 - **Performance comparison** based on settling time, overshoot, and stability.
-- 📌 [Colab Notebook](https://colab.research.google.com/drive/1tlQf7L2DaMQphAthi1980pMIsDsWROVx?usp=sharing)
+- 📌 [Colab Notebook]((https://colab.research.google.com/drive/1tlQf7L2DaMQphAthi1980pMIsDsWROVx?usp=sharing))
 
 ---
 
@@ -48,17 +48,13 @@ Each project consists of:
    git clone https://github.com/Zahra-Arabi/Machine-learning-2024.git
    cd Machine-learning-2024
 
-🔗 Additional Resources
-📜 GitHub Repository
-📑 Documentation & Reports
+
 
 👩‍💻 Author
 Name: Zahra Arabi
 University: K. N. Toosi University of Technology
 Instructor: Dr. Mahdi Aliyari
 
-✅ Notes
-Please update the Google Colab links in each section.
-Let me know if you need modifications or additional features.
+
 🚀 Happy Coding! 🎯
 
