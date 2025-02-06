@@ -74,7 +74,7 @@ Jupyter Notebook
 Run all cells and follow the explanations in the notebook.
 
 📌 Google Colab Link:
-🔗 Open Notebook (Replace with actual link)
+🔗 Open Notebook **([COLAB P2](https://colab.research.google.com/drive/1sGE_Ow4Q4WM3v8UkPLl5lMEmMY3_Cz_K?usp=sharing))**
 
 📄 Related Files
 📜 Project Report
