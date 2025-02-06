@@ -73,15 +73,13 @@ Jupyter Notebook
 Run all cells and follow the explanations in the notebook.
 
 📌 Google Colab Link:
-🔗 Open Notebook (Replace with actual link)
+🔗 Open Notebook **([COLAB MP1](https://colab.research.google.com/drive/1G7SBPrHMCVuey0Pn-m8QP8KHc4OJYp8q?usp=sharing))**
 
 📄 Related Files
 📜 Project Report
 📑 Student Report
 
-🔗 Additional Resources
-📜 Main Repository
-📑 ML Final Project
+
 
 👩‍💻 Author
 Name: Zahra Arabi
