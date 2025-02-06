@@ -30,7 +30,7 @@ Each project consists of:
 - **Neural network analysis** and its **hyperparameter optimization**.
 - Models: **Multi-Layer Perceptron (MLP)** with batch normalization, dropout, and different optimizers.
 - **Comparison of different architectures** and their impact on accuracy.
-- 📌 [Colab Notebook] ((https://colab.research.google.com/drive/1sGE_Ow4Q4WM3v8UkPLl5lMEmMY3_Cz_K?usp=sharing))
+- 📌 [Colab Notebook]((https://colab.research.google.com/drive/1sGE_Ow4Q4WM3v8UkPLl5lMEmMY3_Cz_K?usp=sharing))
 
 ### 🔹 **[ML Project 3](https://github.com/Zahra-Arabi/Machine-learning-2024/tree/main/ML_Project3)**
 - **PID vs. Fuzzy Logic Control** for **nonlinear dynamic systems**.
