@@ -16,9 +16,8 @@ Each project consists of:
 ## 🚀 **Projects Overview**
 
 ### 🔹 **[ML Final Project](https://github.com/Zahra-Arabi/Machine-learning-2024/tree/main/ML_FinalProject)**
-- This project involves **advanced machine learning** techniques, including **deep learning models**.
-- **Topics covered**: Regression, classification, hyperparameter tuning, and model evaluation.
-- 📌 [Colab Notebook](https://colab.research.google.com/drive/10_l21YcWot8c63YOCukeXIyUMoWW_IrU?usp=sharing)**
+- This project includes techniques MLP & ANFIS & LSTM & GRU & CNN_LSTM & TRANSFORMER for predicting stock prices.
+- 📌 [Colab FINAL PRIJECT](https://colab.research.google.com/drive/10_l21YcWot8c63YOCukeXIyUMoWW_IrU?usp=sharing)**
 
 ### 🔹 **[ML Project 1](https://github.com/Zahra-Arabi/Machine-learning-2024/tree/main/ML_Project1)**
 - **Customer churn prediction** using classification models such as **Random Forest** and **SVM**.
